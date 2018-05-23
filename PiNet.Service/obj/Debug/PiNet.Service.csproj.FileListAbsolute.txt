@@ -1,0 +1,11 @@
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PiNet\PiNet.Service\bin\Debug\PiNet.Service.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PiNet\PiNet.Service\bin\Debug\PiNet.Service.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PiNet\PiNet.Service\bin\Debug\PiNet.Data.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PiNet\PiNet.Service\bin\Debug\PiNet.Domain.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PiNet\PiNet.Service\bin\Debug\EntityFramework.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PiNet\PiNet.Service\bin\Debug\PiNet.Data.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PiNet\PiNet.Service\bin\Debug\PiNet.Domain.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PiNet\PiNet.Service\bin\Debug\EntityFramework.xml
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PiNet\PiNet.Service\obj\Debug\PiNet.Service.csprojResolveAssemblyReference.cache
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PiNet\PiNet.Service\obj\Debug\PiNet.Service.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PiNet\PiNet.Service\obj\Debug\PiNet.Service.pdb

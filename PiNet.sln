@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiNet.Domain", "PiNet.Domain\PiNet.Domain.csproj", "{FC0651EF-531A-4586-9622-2FB30D29E731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiNet.Service", "PiNet.Service\PiNet.Service.csproj", "{62A62C29-2972-4363-A44E-B2983761C75F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiNet.Data", "PiNet.Data\PiNet.Data.csproj", "{5B673588-D8A5-4CE8-AEB9-1C8A4B3ABBC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiNetService.Pattern", "PiNetService.Pattern\PiNetService.Pattern.csproj", "{70750983-18F8-4591-8F33-736176CBF1F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiNet.Web", "PiNet.Web\PiNet.Web.csproj", "{B535353D-8891-4D41-9107-D67D720446F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC0651EF-531A-4586-9622-2FB30D29E731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0651EF-531A-4586-9622-2FB30D29E731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0651EF-531A-4586-9622-2FB30D29E731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0651EF-531A-4586-9622-2FB30D29E731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62A62C29-2972-4363-A44E-B2983761C75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A62C29-2972-4363-A44E-B2983761C75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A62C29-2972-4363-A44E-B2983761C75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A62C29-2972-4363-A44E-B2983761C75F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B673588-D8A5-4CE8-AEB9-1C8A4B3ABBC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B673588-D8A5-4CE8-AEB9-1C8A4B3ABBC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B673588-D8A5-4CE8-AEB9-1C8A4B3ABBC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B673588-D8A5-4CE8-AEB9-1C8A4B3ABBC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70750983-18F8-4591-8F33-736176CBF1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70750983-18F8-4591-8F33-736176CBF1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70750983-18F8-4591-8F33-736176CBF1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70750983-18F8-4591-8F33-736176CBF1F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B535353D-8891-4D41-9107-D67D720446F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B535353D-8891-4D41-9107-D67D720446F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B535353D-8891-4D41-9107-D67D720446F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B535353D-8891-4D41-9107-D67D720446F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

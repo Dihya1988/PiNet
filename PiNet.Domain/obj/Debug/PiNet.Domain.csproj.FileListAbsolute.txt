@@ -1,0 +1,4 @@
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PiNet\PiNet.Domain\bin\Debug\PiNet.Domain.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PiNet\PiNet.Domain\bin\Debug\PiNet.Domain.pdb
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PiNet\PiNet.Domain\obj\Debug\PiNet.Domain.dll
+C:\Users\Nouha\Documents\Visual Studio 2015\Projects\PiNet\PiNet.Domain\obj\Debug\PiNet.Domain.pdb
